@@ -27,7 +27,7 @@
     "redux": "^4.0.5",
     "toggle-switch-react-native": "^2.1.0",
     "units-converter": "^1.0.2",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@babel/core": "7.9.6",
